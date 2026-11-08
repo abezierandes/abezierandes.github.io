@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["6H39KLZWPQ.com.lakadtayo.app"],
+        "components": [
+          { "/": "/lakadtayo-site/i", "comment": "Lakad Tayo invite links" },
+          { "/": "/lakadtayo-site/i/*", "comment": "Lakad Tayo invite links" }
+        ]
+      }
+    ]
+  }
+}
