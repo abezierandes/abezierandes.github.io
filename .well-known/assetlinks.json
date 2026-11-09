@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ph.lakadtayo",
+      "sha256_cert_fingerprints": [
+        "95:E9:9A:5C:E2:9D:9E:D5:87:E1:82:D2:30:4A:B0:99:DE:FD:8A:8E:AB:36:96:65:23:32:E0:7B:9B:26:C2:E4"
+      ]
+    }
+  }
+]
